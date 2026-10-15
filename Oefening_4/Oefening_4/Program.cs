@@ -28,7 +28,7 @@ namespace Oefening_4
             //Stap2: Maak de juiste tekst
             //_bewerking = "Hallo" + _naamGebruiker;
             //_bewerking = String.Format("hallo {0}" + _naamGebruiker);
-            _bewerking = $"Hallo {_naamGebruiker}";
+            _bewerking = $"Hallo {_naamGebruiker}  \nMijn naam is Darian en ik ben de programmeur";
 
             //Scherm wissen
             Console.Clear();
